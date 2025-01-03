@@ -35,7 +35,7 @@ A simple and powerful web-based unit converter that supports conversions across 
 - `styles.css`: Styles for the unit converter interface.
 
 ## License 📜
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [License](LICENSE).
 
 ## Contributing 🤝
 Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
