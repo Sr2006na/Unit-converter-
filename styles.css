@@ -23,3 +23,18 @@ input, select, button {
     padding: 10px;
     margin: 10px 0;
 }
+
+.made-by {
+    font-size: 0.875rem;
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+.made-by a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.made-by a:hover {
+    text-decoration: underline;
+}
