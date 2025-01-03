@@ -34,8 +34,10 @@ A simple and powerful web-based unit converter that supports conversions across 
 - `script.js`: Contains the logic for unit conversions and dynamic form updates.
 - `styles.css`: Styles for the unit converter interface.
 
-## License 📜
-This project is open-source and available under the [License](LICENSE).
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.  
+See the [LICENSE](LICENSE) file for details.
 
 ## Contributing 🤝
 Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
