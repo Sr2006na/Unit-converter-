@@ -37,7 +37,7 @@ A simple and powerful web-based unit converter that supports conversions across 
 ## License
 
 This project is custom licensed .
-See the LICENSE[Licence]file for details.
+See the LICENSE[License]file for details.
 
 
 ## Author 👨‍💻
